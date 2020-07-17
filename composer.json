@@ -2,6 +2,7 @@
     "name":"yadav/contact",
     "description": "this is for sending email and contact query form",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name":"sanjay yadaav",
